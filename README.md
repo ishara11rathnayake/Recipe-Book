@@ -1,2 +1,2 @@
 # Recipe-Book
-The example project
+The Angular example project
